@@ -1,0 +1,5 @@
+#Ignore personal settings
+*.lvlps
+
+#Ignore Build folder
+Builds
